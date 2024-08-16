@@ -31,3 +31,19 @@ body {
     text-wrap: balance;
   }
 }
+
+.smcx-widget-footer {
+  display: none;
+}
+
+.smcx-widget {
+  display: none;
+}
+
+.smcx-embed-footer {
+  display: none;
+}
+
+.smcx-widget-dark {
+  display: none;
+}
